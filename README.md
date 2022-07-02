@@ -1,6 +1,6 @@
 # CardiacRecorder -  Android Mobile App
 
-An app for someone who needs to monitor their blood pressure and heart rate data
+An app for someone who needs to monitor his/her blood pressure and heart rate data
 
 # Objectives
 
