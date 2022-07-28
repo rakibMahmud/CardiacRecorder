@@ -24,10 +24,14 @@ An app for someone who needs to monitor his/her blood pressure and heart rate da
 ![umlDesign](https://user-images.githubusercontent.com/50381719/176999368-ab9824dc-5e15-47aa-8762-07a8ed303c07.jpeg)
 
 # UI Design
-![Android Large - 2](https://user-images.githubusercontent.com/50381719/176999787-413a2cd8-a188-4bce-b194-5fc907500667.png)
-![Android Large - 3](https://user-images.githubusercontent.com/50381719/176999789-cba22173-f08b-4fee-91dc-906f410ae944.png)
-![Android Large - 4](https://user-images.githubusercontent.com/50381719/176999790-79b5f63e-6852-4828-9302-cb122ea402bc.png)
-![Android Large - 5](https://user-images.githubusercontent.com/50381719/176999829-ee706744-d585-462c-a49f-ee0a80677ff5.png)
+![Screenshot_20220723-151710_CardiacRecorder](https://user-images.githubusercontent.com/50381719/181466323-36d8c08a-31c3-431c-965a-40103ad90aa6.jpg)
+![Screenshot_20220723-151758_CardiacRecorder](https://user-images.githubusercontent.com/50381719/181466351-a23927e6-d942-435f-905a-b79344578bdc.jpg)
+![Screenshot_20220723-151838_CardiacRecorder](https://user-images.githubusercontent.com/50381719/181466365-9956920f-48f0-44e4-892d-d6a0f35ed925.jpg)
+![Screenshot_20220723-152315_CardiacRecorder](https://user-images.githubusercontent.com/50381719/181466374-b4b2c136-c0e0-447f-a24a-e948ee837798.jpg)
+![Screenshot_20220723-152329_CardiacRecorder](https://user-images.githubusercontent.com/50381719/181466389-a1d7643b-e497-4f5d-adb9-68223a74676e.jpg)
+![Screenshot_20220723-152342_CardiacRecorder](https://user-images.githubusercontent.com/50381719/181466409-5b7d0109-41f5-496f-9f84-b2a34c715383.jpg)
+![Screenshot_20220723-152401_CardiacRecorder](https://user-images.githubusercontent.com/50381719/181466421-6b07f6a5-7194-4bf2-a963-bbfd1d04429b.jpg)
+
 
 # Team Members
 1. Md. Sabbir Hossain (Roll : 1807070)
